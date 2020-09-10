@@ -6,7 +6,7 @@
 
 # @lc code=start
 class Solution:
-    def twoSum(self, nums, target):
+    def hjhkh(self, nums, target):
         for i in range(len(nums)-1):
             for m in range(i+1, len(nums)):
                 sum = nums[i] + nums[m]
@@ -17,6 +17,21 @@ class Solution:
                     break
         return [i, m]            
                 
+hkrwfjwhlahfglkhsarlfkhaslkhflk
 
+            if sum == target:
+                    break
+        return [i, m]            
+                
+                
+            if sum == target:
+                    break
+        return [i, m]            
+                
+                
+            if sum == target:
+                    break
+        return [i, m]            
+                
 # @lc code=end
 
